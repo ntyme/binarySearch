@@ -1,0 +1,11 @@
+C:\Users\Nick Tymeson\Documents\binarySearch\bin\Debug\netcoreapp2.1\binarySearch.deps.json
+C:\Users\Nick Tymeson\Documents\binarySearch\bin\Debug\netcoreapp2.1\binarySearch.runtimeconfig.json
+C:\Users\Nick Tymeson\Documents\binarySearch\bin\Debug\netcoreapp2.1\binarySearch.runtimeconfig.dev.json
+C:\Users\Nick Tymeson\Documents\binarySearch\bin\Debug\netcoreapp2.1\binarySearch.dll
+C:\Users\Nick Tymeson\Documents\binarySearch\bin\Debug\netcoreapp2.1\binarySearch.pdb
+C:\Users\Nick Tymeson\Documents\binarySearch\obj\Debug\netcoreapp2.1\binarySearch.csprojAssemblyReference.cache
+C:\Users\Nick Tymeson\Documents\binarySearch\obj\Debug\netcoreapp2.1\binarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Nick Tymeson\Documents\binarySearch\obj\Debug\netcoreapp2.1\binarySearch.AssemblyInfoInputs.cache
+C:\Users\Nick Tymeson\Documents\binarySearch\obj\Debug\netcoreapp2.1\binarySearch.AssemblyInfo.cs
+C:\Users\Nick Tymeson\Documents\binarySearch\obj\Debug\netcoreapp2.1\binarySearch.dll
+C:\Users\Nick Tymeson\Documents\binarySearch\obj\Debug\netcoreapp2.1\binarySearch.pdb
